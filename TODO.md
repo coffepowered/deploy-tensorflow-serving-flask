@@ -1,8 +1,9 @@
 
 # TODO 
-[] deploy a custom model locally
-[] check [tf bridge on heroku elements](https://elements.heroku.com/buttons/heroku/tf-bridge)
-[] deploy to heroku as a test
+
+- [ ] deploy a custom model locally
+- [ ] check [tf bridge on heroku elements](https://elements.heroku.com/buttons/heroku/tf-bridge)
+- [ ] deploy to heroku as a test
 
 
 # Study notes
