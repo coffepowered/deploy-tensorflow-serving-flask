@@ -20,4 +20,5 @@ What seems to be new here is that there is a `model.py`
 
 ## Questions
 * Why this was not fully done with tf serving [RESTful API](https://www.tensorflow.org/tfx/serving/api_rest)?
+* Why is preprocessing made inside `model.py` ?!
 * Go deeper on [gRPC API](https://grpc.io/docs/languages/python/quickstart/)
